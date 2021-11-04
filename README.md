@@ -71,16 +71,10 @@ Comments for new [SO][1] contributors
     ```markdown
     Hi I think your question might be better awnsered to the relevant company/organisation's technical support team.
     If that is the case the question might be [off-topic (read point 4)](https://stackoverflow.com/help/on-topic).
-    However following the base on-topic points:  
+    However following the base on-topic points:
     - software tools commonly used by programmers; and is
     - a practical, answerable problem that is unique to software development
-    Seems like your question is on-topic
+    It seems like your question is on-topic
     ```
  - Output
-    > Hi I think your question might be better awnsered to the relevant company/organisation's technical support team.
-    If that is the case the question might be [off-topic (read point 4)](https://stackoverflow.com/help/on-topic).
-    However following the base on-topic points:
-    > - software tools commonly used by programmers; and is  
-    > - a practical, answerable problem that is unique to software development  
-    >
-    > Seems like your question is on-topic
+    > Hi I think your question might be better awnsered to the relevant company/organisation's technical support team. If that is the case the question might be [off-topic (read point 4)](https://stackoverflow.com/help/on-topic). However following the base on-topic points: - software tools commonly used by programmers; and is - a practical, answerable problem that is unique to software development. It seems like your question is on-topic
