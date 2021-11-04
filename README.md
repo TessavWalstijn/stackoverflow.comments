@@ -63,3 +63,23 @@ Comments for new [SO][1] contributors
     have a look around, and read through the [help center](https://stackoverflow.com/help),
     in particular [How do I ask a good question?](https://stackoverflow.com/help/how-to-ask)
     and [How to create a Minimal, Reproducible Example](https://stackoverflow.com/help/minimal-reproducible-example).
+
+### Question about software tools commonly used by programmers
+
+
+ - Markdown
+    ```markdown
+    Hi I think your question might be better awnsered to the relevant company/organisation's technical support team.
+    If that is the case the question might be [off-topic (read point 4)](https://stackoverflow.com/help/on-topic).
+    However following the base on-topic points:  
+    - software tools commonly used by programmers; and is
+    - a practical, answerable problem that is unique to software development
+    Seems like your question is on-topic
+    ```
+ - Output
+    > Hi I think your question might be better awnsered to the relevant company/organisation's technical support team.
+    If that is the case the question might be [off-topic (read point 4)](https://stackoverflow.com/help/on-topic).
+    However following the base on-topic points:  
+    - software tools commonly used by programmers; and is  
+    - a practical, answerable problem that is unique to software development  
+    Seems like your question is on-topic
