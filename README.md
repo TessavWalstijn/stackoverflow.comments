@@ -77,4 +77,29 @@ Comments for new [SO][1] contributors
     It seems like your question is on-topic
     ```
  - Output
-    > Hi I think your question might be better awnsered to the relevant company/organisation's technical support team. If that is the case the question might be [off-topic (read point 4)](https://stackoverflow.com/help/on-topic). However following the base on-topic points: - software tools commonly used by programmers; and is - a practical, answerable problem that is unique to software development. It seems like your question is on-topic
+    > Hi I think your question might be better awnsered to the relevant company/organisation's technical support team.
+    If that is the case the question might be [off-topic (read point 4)](https://stackoverflow.com/help/on-topic).
+    However following the base on-topic points: - software tools commonly used by programmers;
+    and is - a practical, answerable problem that is unique to software development. It seems like your question is on-topic
+
+### Answer could be improved
+
+ - Markdown
+    ```markdown
+    Your answer could be improved with additional supporting information.
+    Please [edit](https://stackoverflow.com/posts/######/edit) to add further details,
+    such as citations or documentation, so that others can confirm that your answer is correct.
+    You can find more information on how to write good answers [in the help center](https://stackoverflow.com/help/how-to-answer).
+    ```
+    Please edit the `######` to the coresponding ID of the answer
+    You can find the ID here:  
+    
+    ![image](https://user-images.githubusercontent.com/15922789/140891292-0b378400-bb64-47f6-a7d3-fc624f8a9ef6.png)
+
+ - Output
+    > Your answer could be improved with additional supporting information.
+    Please [edit](https://stackoverflow.com/posts/######/edit) to add further details,
+    such as citations or documentation, so that others can confirm that your answer is correct.
+    You can find more information on how to write good answers [in the help center](https://stackoverflow.com/help/how-to-answer).
+
+
