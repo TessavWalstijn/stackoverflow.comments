@@ -102,4 +102,25 @@ Comments for new [SO][1] contributors
     such as citations or documentation, so that others can confirm that your answer is correct.
     You can find more information on how to write good answers [in the help center](https://stackoverflow.com/help/how-to-answer).
 
+### Answer could be improved - linking to a source without explanation and context
+
+Response created by SO user [ADyson](https://stackoverflow.com/users/5947043/adyson)
+
+ - Markdown
+    ```markdown
+    A link to a solution is welcome, but please ensure your answer is useful without it:
+    [add context around the link](https://meta.stackexchange.com/a/8259) so your fellow users will have some idea what it is and why it’s there,
+    then quote the most relevant part of the page you're linking to in case the target page is unavailable,
+    and/or provide a code example which is relevant to the OP's scenario.
+    [Answers that are little more than a link may be deleted](https://stackoverflow.com/help/deleted-answers).
+    See also [How to Answer](https://stackoverflow.com/questions/how-to-answer). Thanks.
+    ```
+
+ - Output
+    > A link to a solution is welcome, but please ensure your answer is useful without it:
+    [add context around the link](https://meta.stackexchange.com/a/8259) so your fellow users will have some idea what it is and why it’s there,
+    then quote the most relevant part of the page you're linking to in case the target page is unavailable,
+    and/or provide a code example which is relevant to the OP's scenario.
+    [Answers that are little more than a link may be deleted](https://stackoverflow.com/help/deleted-answers).
+    See also [How to Answer](https://stackoverflow.com/questions/how-to-answer). Thanks.
 
